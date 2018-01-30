@@ -2,4 +2,10 @@
 Download something using WebSpider in Python.
 --- 
 ## Video
-### video in WeChat article
+### In WeChat article
+* Requirements:
+  * python3
+  * selenium
+  * urllib
+  * tqdm
+  * chromedriver.exe
